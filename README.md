@@ -1,6 +1,8 @@
 # Certi-Maker
 
-Generate certificates from MS word template and excel data
+Generate certificates from MS word template and excel data.
+
+Thanks to http://pbpython.com/python-word-template.html, which has been a great help in developing this code.
 
 -> Open start.bat in text editor mode (notepad or other), make necessary changes to first three lines and save it.
 
